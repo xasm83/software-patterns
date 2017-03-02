@@ -1,4 +1,4 @@
-package com.getbase;
+package com.cache;
 
 public class Clazz {
     public int method(int x) {
